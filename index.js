@@ -1,4 +1,3 @@
-const apiKey = '68677942b8msh8ac53141f4dcab8p10865fjsn76d9c459898c';  
 const apiUrl = 'https://aviation-news-live.p.rapidapi.com/api/news';
 
 const options = {
